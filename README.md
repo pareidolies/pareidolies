@@ -4,6 +4,11 @@
 
 [![smostefa's 42 stats](https://badge42.vercel.app/api/v2/clfy9gd6o000608jut12hufsn/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
 
+#### 42 projects
+
+
+#### Skills
+
 #### Github stats
 
 ![Pareidolies's GitHub stats](https://github-readme-stats.vercel.app/api?username=pareidolies&show_icons=true&theme=apprentice)
