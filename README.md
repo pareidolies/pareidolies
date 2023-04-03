@@ -7,7 +7,7 @@
 #### 42 projects
 
 
-#### Skills
+#### General skills
 
 #### Github stats
 
