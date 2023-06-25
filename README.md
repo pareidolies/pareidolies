@@ -2,9 +2,11 @@
 
 #### 42 projects
 
-#### Graphics projects
+[TO COMPLETE]
 
-#### General skills
+#### Personal projects
+
+[TO COMPLETE]
 
 #### Github stats
 
