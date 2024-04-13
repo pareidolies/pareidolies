@@ -1,28 +1,30 @@
-### Hi there 👋
+### Hi, i'm Sacha, welcome on my github profile !
 
-## Projects
+You can find all the projects that i've done at 42 below. To learn more about a project, click on the project name : you'll be redirected to the github repository ◡̈
+
+## My projects
 
 #### 42 projects
 
-| Name                                   | Language     | Group                                                                                          |
-|----------------------------------------|--------------|------------------------------------------------------------------------------------------------|
-| [Libft][42-libft]                      | C            | Solo                                                                                           |
-| [Get_next_line][42-get_next_line]      | C            | Solo                                                                                           |
-| [Ft_printf][42-ft_printf]              | C            | Solo                                                                                           |
-| [Cub3D][42-cub3d]                      | C            | Duo with [Jdubilla][Jdubilla]                                                                  |
-| [Push_swap][42-push_swap]              | C            | Solo                                                                                           |
-| [Minitalk][42-minitalk]                | C            | Solo                                                                                           |
-| [Philosophers][42-Philosophers]        | C            | Solo                                                                                           |
-| [Netpractice][42-netpractice]          | System Admin | Solo                                                                                           |
-| [Minishell][42-Minishell]              | C            | Duo with [Lmurtin][Lmurtin]                                                                    |
-| [Modules_CPP][42-CPP_Modules]          | C++          | Solo                                                                                           |
-| [Fractol][42-fractol]                  | C            | Solo                                                                                           |
-| [Webserv][42-Webserv]                  | C++          | Trio with [Ykuo][Ykuo] and [Sdesseau][Sdesseau]                                                |
-| [Inception][42-Inception]              | Docker       | Solo                                                                                           |
-| [ft_transcendence][42-ft_transcendence]| React/Nestjs | Group with [Saguesse][Saguesse], [Asadanow][Asadanow], [Acoinus][Acoinus] and [Yatang][Yatang] |
-| [ft_shmup][42-ft-shmup]                | C            | Duo with [Ppajot][Ppajot]                                                                      |
-| [Rubik][42-rubik]                      | Python       | Duo with [Frdescam][Frdescam]                                                                  |
-| [Linear_regression][linear_regression] | Python       | Solo                                                                                           |
+| Name                                   | Language     | Description                 | Group                                                               | Status | How interesting? |
+|:---------------------------------------|:-------------|:----------------------------|:--------------------------------------------------------------------|:-------|:---|
+| [Libft][42-libft]                      | C            | Library of the main C functions | Solo                                                       | ✔️|   ★|
+| [Get_next_line][42-get_next_line]      | C            | Function which returns a line read from a file descriptor| Solo                                    | ✔️| ★|
+| [Ft_printf][42-ft_printf]              | C            | Function which mimics the real printf | Solo                                             |✔️| ★|
+| [Cub3D][42-cub3d]                      | C            | Raycasting project| Duo with [Jdubilla][Jdubilla]                                              |✔️| ★★★|
+| [Push_swap][42-push_swap]              | C            | Stack sorting algorithm| Solo                                                                 |✔️|★★★|
+| [Minitalk][42-minitalk]                | C            | Discovering UNIX signals & bitwise | Solo                                                 |✔️|★★|
+| [Philosophers][42-Philosophers]        | C            | Application of multithreading through the Dining Philosophers problem | Solo |✔️|★★★★|
+| [Netpractice][42-netpractice]          | System Admin | Networking exercises| Solo                                                               |✔️| ★★|
+| [Minishell][42-Minishell]              | C            | Recreating a Unix shell based on bash| Duo with [Lmurtin][Lmurtin]                      |✔️|★★★★|
+| [Modules_CPP][42-CPP_Modules]          | C++          | First steps in C++ | Solo                                                              |✔️|★★★|
+| [Fractol][42-fractol]                  | C            | Displaying fractals with the MiniLibX  | Solo                                           |✔️|★★★★|
+| [Webserv][42-Webserv]                  | C++          | An HTTP/1.1 server that supports GET, POST, DELETE, with execution of CGI scripts | Trio with [Ykuo][Ykuo] and [Sdesseau][Sdesseau]                              |✔️|★★★★|
+| [Inception][42-Inception]              | Docker       | Setting up a Wordpress website with Docker containers | Solo                                        |✔️|★★★|
+| [Ft_transcendence][42-ft_transcendence]| React/Nestjs | A website with a Pong Game, a Chat and User Profiles | Group with [Saguesse][Saguesse], [Asadanow][Asadanow], [Acoinus][Acoinus] and [Yatang][Yatang] | ✔️ |★★★★|
+| [Ft_shmup][42-ft-shmup]                | C            | Creating a shoot'em up style game in 48 hours  | Duo with [Ppajot][Ppajot]                         |✔️|★★★|
+| [Rubik][42-rubik]                      | Python       | Efficient rubik solver algorithm  | Duo with [Frdescam][Frdescam]                                     |✔️|★★★★|
+| [Linear_regression][linear_regression] | Python       | First steps in machine learning with a gradient descent algorithm | Solo                               | ✔️|★★★★|
 
 #### Personal projects
 
