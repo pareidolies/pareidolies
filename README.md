@@ -1,6 +1,6 @@
 ### Hi, i'm Sacha, welcome on my github profile!
 
-You can find all the projects that i've done / i'm doing at 42 below. To learn more about a project, click on the project name: you'll be redirected to its github repository ◡̈
+You can find all the projects that i've done / i'm doing at 42 below ◡̈
 
 ## My projects
 
