@@ -1,4 +1,4 @@
-### Hi, i'm Sacha, welcome on my github profile!
+### Hi, welcome on my github profile!
 
 You can find all the projects that i've done / i'm doing at 42 below ◡̈
 
