@@ -27,6 +27,8 @@ You can find all the projects that i've done / i'm doing at 42 below ◡̈
 | [Linear_regression][linear_regression] | Python       | First steps in machine learning with a gradient descent algorithm | Solo                               | ✔️|★★★★|
 | Scop | Rust       | First steps in the world of 3D on GPU with OpenGL | Solo                               | 🚧|?|
 | Ready_Set_Boole | Rust       | Series of exercises on Boolean Algebra and Sets Theory | Solo                               | 🚧|?|
+| Swifty-companion | Mobile       | Application which gets infos about 42students, using the API | Solo                               | 🚧|?|
+
 
 #### Personal projects
 
